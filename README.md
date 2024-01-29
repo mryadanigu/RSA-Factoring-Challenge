@@ -5,5 +5,5 @@ RSA-Factoring-Challenge is a collection of challenges focusing on RSA factoring,
 
 ## Usage
 
-- ./factors <file>
-- ./rsa <file>
+- [factors](./factors) `<file>`
+- [rsa](./rsa) `<file>`
